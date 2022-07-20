@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>background.PNG</file>
+    <file>boost_ads_main-.png</file>
+  </qresource>
+</RCC>
